@@ -33,4 +33,16 @@ main {
     margin-left: 20px;
     margin-right: 20px;
 }
+button {
+    text-decoration: none;
+    border: none;
+    color: black;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgb(250, 193, 202);
+    color: black;
+    transition: 0.1s;
+}
 
