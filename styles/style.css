@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header and footer */
+header, footer {
+    min-width: 100;
+    background-color: rgb(250, 193, 202);
+    text-align: center;
+    padding-top: 50px;
+}
+/* navigation */
+nav {
+    margin-left: 20px auto;
+}
+ul{
+    display: inline-flex;
+}
+/*  */
+section {
+    margin-top: 20px;
+}
+/* list */
+li {
+    list-style: none;
+    padding-right: 10px;
+}
+a:visited{
+    color: white;
+}
+main {
+    min-height: 100vh;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
